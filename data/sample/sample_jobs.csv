@@ -1,0 +1,7 @@
+
+job_id,title,company_type,location,seniority,description
+1,Junior Data Analyst,Mid-sized e-commerce company,Berlin,Entry-level,"We are looking for a Junior Data Analyst with strong SQL, Excel, and Python skills. The candidate should support dashboarding, data cleaning, exploratory data analysis, and stakeholder communication. Experience with Power BI or Tableau is a plus."
+2,Junior Data Scientist,AI product startup,Munich,Entry-level,"We are seeking a Junior Data Scientist who can work with Python, Pandas, Scikit-learn, statistics, regression, classification, feature engineering, and model evaluation. Good documentation and communication skills are important."
+3,Machine Learning Engineer,Automotive technology company,Stuttgart,Junior,"The role involves building machine learning pipelines using Python, Scikit-learn, Docker, MLflow, CI/CD, and model deployment. Knowledge of cloud platforms such as AWS or Azure is helpful."
+4,Data Engineer,Fintech company,Frankfurt,Junior,"We are hiring a Data Engineer to build ETL workflows, data pipelines, SQL transformations, data warehousing models, and documentation. Experience with Airflow, Spark, dbt, or cloud platforms is beneficial."
+5,Applied AI Engineer,Healthcare AI company,Hamburg,Junior,"We are looking for an Applied AI Engineer with Python, natural language processing, large language models, prompt engineering, embeddings, retrieval-augmented generation, and strong problem solving skills."

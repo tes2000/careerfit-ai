@@ -1,0 +1,97 @@
+
+{
+  "version": "0.1.0",
+  "description": "Initial skill taxonomy for CareerFit AI MVP. This taxonomy is intentionally small, explainable, and beginner-friendly.",
+  "target_market": "Germany",
+  "target_roles": [
+    "Data Analyst",
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "Applied AI Engineer",
+    "Data Engineer",
+    "MLOps Engineer",
+    "GenAI Engineer"
+  ],
+  "categories": {
+    "programming": [
+      "Python",
+      "SQL",
+      "R",
+      "Bash",
+      "Git"
+    ],
+    "data_analysis": [
+      "Pandas",
+      "NumPy",
+      "Excel",
+      "Exploratory Data Analysis",
+      "Data Cleaning",
+      "Statistics",
+      "A/B Testing"
+    ],
+    "visualization": [
+      "Matplotlib",
+      "Seaborn",
+      "Plotly",
+      "Power BI",
+      "Tableau",
+      "Dashboarding"
+    ],
+    "machine_learning": [
+      "Scikit-learn",
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Feature Engineering",
+      "Model Evaluation",
+      "Cross Validation"
+    ],
+    "deep_learning": [
+      "PyTorch",
+      "TensorFlow",
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "data_engineering": [
+      "ETL",
+      "Data Pipelines",
+      "Airflow",
+      "Spark",
+      "Data Warehousing",
+      "dbt"
+    ],
+    "cloud_and_mLOps": [
+      "Docker",
+      "MLflow",
+      "CI/CD",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Model Deployment",
+      "Monitoring"
+    ],
+    "genai": [
+      "Large Language Models",
+      "Prompt Engineering",
+      "Retrieval-Augmented Generation",
+      "Vector Databases",
+      "Embeddings",
+      "LangChain"
+    ],
+    "business_and_communication": [
+      "Stakeholder Communication",
+      "Problem Solving",
+      "Business Understanding",
+      "Presentation Skills",
+      "Documentation",
+      "Agile"
+    ],
+    "language_market": [
+      "English",
+      "German",
+      "EU Work Authorization",
+      "Germany Job Market"
+    ]
+  }
+}
